@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Baviinci
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Biology and wanting a side hobbie for coding
-- 📫 How to reach me baviinci@gmail.com
+xoxo
 
 <!---
 Baviinci/Baviinci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
